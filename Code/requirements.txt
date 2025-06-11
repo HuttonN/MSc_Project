@@ -1,0 +1,11 @@
+build==1.2.1
+enum34==1.1.10
+fire==0.3.1
+installer==0.7.0
+packaging==24.1
+py2pddl @ git+https://github.com/remykarem/py2pddl@e8b452320652963574a5b144c17bccf6568e4317
+pygame==2.6.1
+pyproject_hooks==1.1.0
+six==1.16.0
+termcolor==2.4.0
+pddl-parser @ git+https://github.com/pucrs-automated-planning/pddl-parser

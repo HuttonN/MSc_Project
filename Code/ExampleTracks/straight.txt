@@ -1,0 +1,5 @@
+"Station";1;5;2;1
+"LongStraight";2;1;3;1
+"LongStraight";3;2;4;1
+"LongStraight";4;3;5;1
+"Station";5;4;0;1

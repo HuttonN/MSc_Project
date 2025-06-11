@@ -1,0 +1,10 @@
+"Station";1;10;2;1
+"LongLeft";2;1;3;1
+"LongLeft";3;2;4;1
+"LongLeft";4;3;5;1
+"LongLeft";5;4;6;1
+"Station";6;5;7;1
+"LongLeft";7;6;8;1
+"LongLeft";8;7;9;1
+"LongLeft";9;8;10;1
+"LongLeft";10;9;1;1
